@@ -1,0 +1,2 @@
+This is my file and I ve made some chnages in this file
+now i have to sync local and remote repos
